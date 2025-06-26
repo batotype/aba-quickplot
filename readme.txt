@@ -23,6 +23,7 @@ Sometimes it is up to 20+ times faster to work with a text-only interface so I p
 
 -==NEWS BEGIN==-
 I am going to create some folders for different ways of managing data, also--csv, tsv, json, etc.
+I am going to include a github tutorial for branching, this week, also. Git is a very useful communication tool for software developers.
 -==NEWS END==-
 
 -==Citation data, optional==-
