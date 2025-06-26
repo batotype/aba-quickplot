@@ -24,3 +24,9 @@ Sometimes it is up to 20+ times faster to work with a text-only interface so I p
 -==NEWS BEGIN==-
 I am going to create some folders for different ways of managing data, also--csv, tsv, json, etc.
 -==NEWS END==-
+
+-==Citation data, optional==-
+Botto, J. (2025). ABA-Quickplot (Latest) [Computer software]. GitHub. https://github.com/batotype/aba-quickplot.git
+
+-==Acknowledgement==-
+Thank you to (a) my brother and (b) my best friend, for troubleshooting support.
