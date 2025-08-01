@@ -1,0 +1,19 @@
+If you mistakenly created your venv already and want to use git to download aba-quickplot into that directory, you can use this method:
+Navigate to the target directory:
+bash
+cd /path/to/my/existing/folder
+Initialize a Git repository in the existing directory:
+bash
+git init
+This creates a .git subdirectory in your current directory.
+Add the remote repository:
+bash
+git remote add origin <repository-url>
+Replace <repository-url> with the URL of the Git repository you want to clone.
+Fetch the remote contents:
+bash
+git fetch origin
+This downloads the repository data, including branches and commits, without checking out any files yet.
+Checkout the desired branch:
+bash
+git checkout -t origin/main
