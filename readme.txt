@@ -18,7 +18,7 @@ Then `source ./venv/bin/activate`
 Then `pip install matplotlib`
 Then `python <filename>.py` (replace <filename> with the desired filename). 
 
-*Note: if you created the venv first, you can continue using the file `clone-into-nonempty-directory.txt`.
+*Note: if you created the venv first, you can continue using the file `clone-into-nonempty-directory.txt` at https://github.com/batotype/aba-quickplot/blob/main/clone-into-nonempty-directory.txt.
 
 You can open the py files and modify the data, ticmarks, etc. Just play around with the contents: hopefully the comments will be helpful for you.
 I have tried my best to follow a good commenting style, but I would be very open to improvements. 
@@ -35,4 +35,5 @@ Botto, J. (2025). ABA-Quickplot (Latest) [Computer software]. GitHub. https://gi
 
 -==Acknowledgement==-
 Thank you to (a) my brother and (b) my best friend, for troubleshooting support.
+
 
